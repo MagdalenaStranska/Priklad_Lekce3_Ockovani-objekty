@@ -1,0 +1,1 @@
+# Priklad_Lekce3_Ockovani-objekty
